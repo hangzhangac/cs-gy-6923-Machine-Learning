@@ -1,0 +1,7 @@
+# This is the solution file for private_test_cases/q3/ucs_5_goalAtDequeue.test.
+# This solution is designed to support both right-to-left
+# and left-to-right implementations.
+solution: "_1:A->B _0:B->C _0:C->G"
+expanded_states: "A B C"
+rev_solution: "_1:A->B _0:B->C _0:C->G"
+rev_expanded_states: "A B C"

@@ -1,0 +1,7 @@
+# This is the solution file for private_test_cases/q3/ucs_0_graph.test.
+# This solution is designed to support both right-to-left
+# and left-to-right implementations.
+solution: "_Right _Down _Down"
+expanded_states: "A B D C G"
+rev_solution: "_Right _Down _Down"
+rev_expanded_states: "A B D C G"
